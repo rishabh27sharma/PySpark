@@ -1,0 +1,5 @@
+emp_id,emp_nm,address,state,country,dept,salary
+1,499,pune,mh,india,IT,500000
+2,500,pune,mh,india,Sales,300000
+3,501,pune,mh,india,HR,600000
+4,502,pune,mh,india,IT,500000

@@ -1,0 +1,6 @@
+Cache and Persist are used to save data in memory at given point
+so that whenever there are any further actions, there are any further transformations
+beyond this point of cache it will not refer back to the transformations again,
+it will just start flowing the data from the cache point.
+
+cache under the hood uses persist function

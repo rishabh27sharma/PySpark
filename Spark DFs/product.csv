@@ -1,0 +1,9 @@
+product,category,rRevenue
+"Product A","cat 1", 30000
+"Product B","cat 1", 40000
+"Product C","cat 1", 10000
+"Product D","cat 1", 90000
+"Product E","cat 2", 20000
+"Product B","cat 2", 50000
+"Product D","cat 2", 20000
+"Product F","cat 3", 30000
